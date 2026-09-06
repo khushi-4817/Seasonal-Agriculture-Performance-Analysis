@@ -56,7 +56,7 @@ The analysis identified differences in yield, production, water efficiency, reve
 
 All results in this notebook are calculated directly from the given dataset.
 
-Seasonal Agriculture Performance Dataset
+## Seasonal Agriculture Performance Dataset
 
 |Farm\_ID|State|District|Crop|Season|Farm\_Area\_Hectares|Rainfall\_mm|Avg\_Temperature\_C|Humidity\_pct|Sunlight\_Hours\_Day|Soil\_pH|Soil\_Moisture\_pct|Nitrogen\_kg\_ha|Phosphorus\_kg\_ha|Potassium\_kg\_ha|Irrigation\_Method|Fertilizer\_kg\_ha|Pesticide\_Litre\_ha|Seed\_Quality\_Score|Yield\_Tonnes\_Ha|Production\_Tonnes|Market\_Price\_INR\_Tonne|Total\_Cost\_INR|Revenue\_INR|Profit\_INR|Water\_Used\_m3|Water\_Efficiency\_t\_per\_1000m3|Disease\_Pest\_Risk\_pct|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -4061,7 +4061,7 @@ Seasonal Agriculture Performance Dataset
 |SF13999|Punjab|Warangal|Cotton|Kharif|1\.73|475\.0|28\.2|61\.7|6\.4|6\.11|30\.5|107\.5|20\.7|91\.0|Sprinkler|329\.7|2\.6|0\.98|1\.35|2\.34|75282|153904|176160|22256|1220|1\.918|50\.4|
 |SF14000|Punjab|Nashik|Wheat|Kharif|3\.31|984\.3|25\.8|77\.2|5\.9|6\.16|35\.7|137\.1|92\.6|145\.5|Sprinkler|205\.9|6\.72|0\.99|2\.36|7\.81|28812|263872|225022|-38850|1800|4\.339|62\.3|
 
-Cleaned Seasonal Agriculture Dataset
+## Cleaned Seasonal Agriculture Dataset
 
 |Farm\_ID|State|District|Crop|Season|Farm\_Area\_Hectares|Rainfall\_mm|Avg\_Temperature\_C|Humidity\_pct|Sunlight\_Hours\_Day|Soil\_pH|Soil\_Moisture\_pct|Nitrogen\_kg\_ha|Phosphorus\_kg\_ha|Potassium\_kg\_ha|Irrigation\_Method|Fertilizer\_kg\_ha|Pesticide\_Litre\_ha|Seed\_Quality\_Score|Yield\_Tonnes\_Ha|Production\_Tonnes|Market\_Price\_INR\_Tonne|Total\_Cost\_INR|Revenue\_INR|Profit\_INR|Water\_Used\_m3|Water\_Efficiency\_t\_per\_1000m3|Disease\_Pest\_Risk\_pct|Profit\_Margin\_Percent|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
